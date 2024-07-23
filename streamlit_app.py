@@ -11,7 +11,7 @@ def read_pdf(file_path):
     return text
 
 def main():
-    st.title("Document RAG")
+    st.title("Document Q&A using RAG")
     
     # Create a file uploader widget for PDF files
     st.markdown("""

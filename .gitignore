@@ -1,0 +1,4 @@
+/indices
+/document_rag
+.streamlit/secrets.toml
+open_ai_rag_test.py
